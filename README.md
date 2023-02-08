@@ -1,11 +1,10 @@
-# Single-lead ECG recordings modeling for end-to-end recognition of atrial
-fibrillation with dual-path RNN
+# Single-lead ECG recordings modeling for end-to-end recognition of atrial fibrillation with dual-path RNN
 
 The source code for the paper.
 
 ## Data
 
-The dataset can be found from [PhysioNet2017](https://www.physionet.org/content/challenge-2017/1.0.0/)
+The dataset can be found from [PhysioNet2017](https://www.physionet.org/content/challenge-2017/1.0.0/).
 
 ## Citation
 If you want to cite us, use this :
